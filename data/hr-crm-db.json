@@ -1,0 +1,46 @@
+{
+  "users": [
+    {
+      "id": "emp-101",
+      "name": "Ava Sharma",
+      "email": "ava@company.com",
+      "role": "employee",
+      "department": "Engineering",
+      "title": "Software Engineer",
+      "passwordHash": "5010831a5da52f27c566b11fa82191ec:0604e5bd62b3f37968be277fdddc50902b5eda443340316f42eedf51fa4fabbf0d110804f8a4646ba18760b8dba2abab31eb514fbf5071dfc61491ea54899a2b",
+      "leaveBalance": {
+        "casual": 8,
+        "sick": 10,
+        "paid": 20
+      }
+    },
+    {
+      "id": "hr-001",
+      "name": "Noah Mehta",
+      "email": "hr.admin@company.com",
+      "role": "hr",
+      "department": "People Operations",
+      "title": "HR Manager",
+      "passwordHash": "c94ac31c4cc11a33ea076fb0343c7633:6f12c8c07bb3d0611f9e22d3d23717fe956d5f88bc865c654ff137d462736136e2b7a9eb6f0659543efbd55d57493674dc2d1c92418324fcfd5bef4ea950fac6",
+      "leaveBalance": {
+        "casual": 12,
+        "sick": 12,
+        "paid": 24
+      }
+    }
+  ],
+  "attendance": [],
+  "leaves": [],
+  "events": [
+    {
+      "id": "ev-1",
+      "title": "Quarterly Town Hall",
+      "description": "Leadership updates and open Q&A.",
+      "type": "meeting",
+      "date": "2026-01-15T10:00:00.000Z",
+      "createdBy": "hr-001"
+    }
+  ],
+  "notifications": [],
+  "sessions": []
+}

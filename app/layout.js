@@ -1,8 +1,8 @@
 import './globals.css';
 
 export const metadata = {
-  title: 'Propkee Onboarding Portal',
-  description: 'Internal onboarding knowledge portal for Propkee teams.',
+  title: 'Internal HR CRM',
+  description: 'Attendance, leave management, events, and employee operations dashboard.',
 };
 
 export default function RootLayout({ children }) {
